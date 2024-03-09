@@ -1,0 +1,14 @@
+[08-Mar-2024 13:19:07 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/alt-php82/sess_1c2d3b95ba6b37c98860cc2f55795d0b, O_RDWR) failed: No such file or directory (2) in /home/mdxconirbanbd/public_html/user/index.php on line 4
+[08-Mar-2024 13:19:07 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/alt-php82) in /home/mdxconirbanbd/public_html/user/index.php on line 4
+[08-Mar-2024 13:20:09 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/alt-php82/sess_1c2d3b95ba6b37c98860cc2f55795d0b, O_RDWR) failed: No such file or directory (2) in /home/mdxconirbanbd/public_html/user/index.php on line 4
+[08-Mar-2024 13:20:09 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/alt-php82) in /home/mdxconirbanbd/public_html/user/index.php on line 4
+[08-Mar-2024 17:35:25 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/alt-php82/sess_0b6e806c11a093a68b6125f80c35b65f, O_RDWR) failed: No such file or directory (2) in /home/mdxconirbanbd/public_html/user/index.php on line 4
+[08-Mar-2024 17:35:25 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/alt-php82) in /home/mdxconirbanbd/public_html/user/index.php on line 4
+[08-Mar-2024 17:35:42 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/alt-php82/sess_0b6e806c11a093a68b6125f80c35b65f, O_RDWR) failed: No such file or directory (2) in /home/mdxconirbanbd/public_html/user/index.php on line 4
+[08-Mar-2024 17:35:42 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/alt-php82) in /home/mdxconirbanbd/public_html/user/index.php on line 4
+[08-Mar-2024 18:14:22 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/alt-php82/sess_f070504d922df72e36a7732219944265, O_RDWR) failed: No such file or directory (2) in /home/mdxconirbanbd/public_html/user/logout.php on line 2
+[08-Mar-2024 18:14:22 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/alt-php82) in /home/mdxconirbanbd/public_html/user/logout.php on line 2
+[08-Mar-2024 18:14:22 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/mdxconirbanbd/public_html/user/logout.php on line 8
+[08-Mar-2024 18:14:24 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/alt-php82/sess_6iuk97hl57jqvdgu9kmabphrdu, O_RDWR) failed: No such file or directory (2) in /home/mdxconirbanbd/public_html/user/logout.php on line 2
+[08-Mar-2024 18:14:24 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/alt-php82) in /home/mdxconirbanbd/public_html/user/logout.php on line 2
+[08-Mar-2024 18:14:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/mdxconirbanbd/public_html/user/logout.php on line 8
